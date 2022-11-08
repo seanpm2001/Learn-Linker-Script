@@ -32,6 +32,16 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Linker Script source file
+*.x linguist-detectable=true
+*.x linguist-documentation=false
+*.x linguist-language=Linker-Script
+*.ld linguist-detectable=true
+*.ld linguist-documentation=false
+*.ld linguist-language=Linker-Script
+*.lds linguist-detectable=true
+*.lds linguist-documentation=false
+*.lds linguist-language=Linker-Script
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +174,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Monday, November 7th at 5:19 pm PST)
+# Line count (including blank lines and compiler line): 181
 # End of script
